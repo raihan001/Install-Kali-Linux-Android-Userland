@@ -9,6 +9,7 @@ Quick install
 - Create user login for ssh and vnc
 - Login to ssh
 - Copy this command:
+
 su
 apt update && apt upgrade
 apt install git
