@@ -11,11 +11,19 @@ Quick install
 - Copy this command:
 
 su
-apt update && apt upgrade
+
+apt update
+
+apt upgrade
+
 apt install git
+
 git clone https://github.com/raihan001/Install-Kali-Linux-Android-Userland.git
+
 cd Install-Kali-Linux-Android-Userland
+
 chmod +x simple-kali.sh
+
 ./simple-kali.sh
 
 - Open your bvnc
